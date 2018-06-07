@@ -1,0 +1,17 @@
+
+.welcome_img {
+  background-image: url("/images/welcome.jpg");
+  background-size: cover;
+}
+.app_title {
+  color: white;
+  font: 900;
+  font-size: 70px;
+  font-family: Comic Sans MS;
+  text-shadow: skyblue 6px 6px 0px, skyblue -6px 6px 0px,
+             skyblue 6px -6px 0px, skyblue -6px -6px 0px;
+}
+
+.container_menu {
+  margin-top: 100px;
+}
